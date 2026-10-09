@@ -28,6 +28,8 @@ This does not include dependencies for all components of MOMAland (not everythin
 - `pip install "momaland[testing]"` to install dependencies for API testing.
 - `pip install "momaland[learning]"` to install dependencies for the supplied learning algorithms.
 - `pip install "momaland[all]"` for all dependencies for all components.
+
+Python 3.14 support covers the core environments and the `testing` extra. The optional `learning` and `all` extras have not yet been validated on Python 3.14.
 <!-- end install -->
 
 ## API
